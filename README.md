@@ -35,8 +35,9 @@ We are a team of passionate hackers dedicated to inspiring others to take their 
 ## Usage
 - paste your OpenAI key into main.py and ArduinoDeltaHacks.py
 - Past port ID into AurduiinoDeltaHacks.py
-- Run Arduino Delta Hacks
-- 
+- Run main.py and ensure laptop camera is on
+- Place your waste on the garbage bin lid and show it to the camera
+- Watch your trash be automaticly sorted
 ## License
 
 MIT License
