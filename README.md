@@ -9,7 +9,6 @@ Our mission is to inspire individuals to take steps toward a greener planet by p
 ## Table of Contents
 - [Contributors](#contributors)
 - [Features](#features)
-- [DeltaHacks Hackathon Submission Material](#DeltaHacks-Hackathon-Submission-Material)
 - [Usage](#usage)
 - [License](#license)
 - [Feedback and Contributions](#feedback-and-contributions)
@@ -33,9 +32,11 @@ We are a team of passionate hackers dedicated to inspiring others to take their 
 - **Educational Chatbot**: Powered by ChatGPT Generative AI, the chatbot assists users in setting achievable goals, answering recycling questions, and building eco-friendly habits.  
 - **User Insights**: Visualized data to show progress toward monthly eco goals and comparisons with others.
 
-## **DeltaHacks Hackathon Submission Material**
-(TO BE ADDED)
-
+## Usage
+- paste your OpenAI key into main.py and ArduinoDeltaHacks.py
+- Past port ID into AurduiinoDeltaHacks.py
+- Run Arduino Delta Hacks
+- 
 ## License
 
 MIT License
